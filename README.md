@@ -1,4 +1,4 @@
-# Mini-Project.1--Data-Science-Academy
+# Projects--Data-Science-Academy
 E-commerce Data Analysis With Power BI and Google Analytics
 This project was created in classes at Data Science Academy, as the subject of one of the chapters.
 As I don't have an account on Microsoft Power BI Service to publish the reports (Dashboards), I used the screenshot mechanism or report export.
